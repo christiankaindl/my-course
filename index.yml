@@ -1,0 +1,14 @@
+title: Quantargo R course template
+abstract: Add your course description here
+usagePlan: free
+technologies:
+- R
+image: main/course.svg
+ogImage: main/course_og.png
+advertise: false
+draft: true
+keyfacts:
+- Short and concise key facts here
+- Each just 1 line with the most important information
+- No need to use periods at the end
+- Up to four key facts are perfect
